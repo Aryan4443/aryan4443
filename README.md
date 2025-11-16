@@ -21,8 +21,7 @@
   Mentored 200+ students in Python, Data Structures, and Machine Learning.  
 - **Software Engineering Fellow** — Headstarter AI   
   Built AI prototypes and REST/GraphQL micro-services for CRM analytics.  
-- **Research Assistant — Systems Programming Lab**   
-  Designed UNIX process schedulers and daemon-based task orchestrators in C/C++.  
+
 
 ---
 
