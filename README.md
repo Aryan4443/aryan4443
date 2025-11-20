@@ -91,7 +91,7 @@ Turn-based OOP game featuring battle mechanics and inventory systems.
 ## 📫 Connect With Me
 📧 [aryannlakhani21@gmail.com](mailto:aryannlakhani21@gmail.com)  
 💼 [linkedin.com/in/aryan-lakhani4443](https://linkedin.com/in/aryan-lakhani4443)  
-💻 [github.com/aryanlakhani](https://github.com/aryanlakhani4443)
+💻 [github.com/aryanlakhani4443](https://github.com/aryanlakhani4443)
 
 ---
 
