@@ -159,7 +159,7 @@ A **bookstore management system** using HashMaps, Linked Lists, Queues, and Stac
 - Built dynamic front-end interfaces with **React and TypeScript** and a customer analytics tool (Python + React) that cut data processing time by **30%**.
 - Collaborated with industry mentors on AI-powered, open-source-style projects.
 
-**👨‍🏫 Instructional Student Assistant — CSULB** · _Jan 2025 – Present · Long Beach, CA_
+**👨‍🏫 Instructional Student Assistant — CSULB** · _Jan 2025 – Jan 2026 · Long Beach, CA_
 - Designed interactive **Python workshops**, increasing student engagement by ~15%, and supported **200+ students** with targeted feedback.
 - Revamped a math support course (50+ new participants) and trained new tutors on teaching strategies.
 
