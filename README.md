@@ -141,7 +141,7 @@ A **bookstore management system** using HashMaps, Linked Lists, Queues, and Stac
 
 ## 💼 Experience
 
-**🏢 Software Engineering Intern — ABB** · _May 2026 – Present · Cary, NC_
+**🏢 Software Engineering Intern — ABB** · _May 2026 – Aug 2026· Cary, NC_
 - Developing a production-facing, **ServiceNow-integrated enterprise AI agent** to classify, triage, and auto-resolve tickets, targeting a **30% reduction** in org-wide ticket volume.
 - Designed **confidence-based routing**: resolves tickets only on strong knowledge-base retrieval, escalating ambiguous cases to humans.
 - Built **live analytics dashboards** over the ServiceNow REST API and instrumented the pipeline with structured logging, tracing, and production metrics.
