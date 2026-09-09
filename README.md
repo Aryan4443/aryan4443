@@ -135,12 +135,12 @@ A **bookstore management system** using HashMaps, Linked Lists, Queues, and Stac
 - Designed **confidence-based routing**: resolves tickets only on strong knowledge-base retrieval, escalating ambiguous cases to humans.
 - Built **live analytics dashboards** over the ServiceNow REST API and instrumented the pipeline with structured logging, tracing, and production metrics.
 
-**🧠 AI Engineer Intern — Simmspace.AI** · _Apr 2026 – Present · Remote_
+**🧠 AI Engineer Intern — Simmspace.AI** · _Apr 2026 – Aug 2026 · Remote_
 - Building **Simmspace IDE** and **SimmSilos** — a platform where admins assign branches/tasks and developers code in isolated silos via a custom VS Code extension.
 - Designed a scalable **FastAPI** backend with JWT auth + refresh flow, RBAC, token-authenticated sync APIs, **Redis** rate limiting, audit logging, and PostgreSQL.
 - Built a **security-focused AI risk layer** scanning submissions for prompt injection, PII leakage, and hallucination signals; gated PRs via GitHub Actions and Docker.
 
-**🔬 Undergraduate Research Assistant — CSULB** · _May 2025 – Apr 2026 · Long Beach, CA_
+**🔬 Undergraduate Research Assistant — CSULB** · _May 2025 – Jan 2026 · Long Beach, CA_
 - Built **multithreaded Java/C++** programs to study parallel execution and optimized CPU-bound workloads across thread pools.
 - Diagnosed **race conditions** with thread-safe synchronization and automated benchmark suites in Python/Bash to detect performance regressions.
 
