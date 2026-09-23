@@ -166,4 +166,4 @@ Data Structures & Algorithms · Object-Oriented Programming · Systems Programmi
 - 🧑‍💻 **GitHub:** [github.com/Aryan4443](https://github.com/Aryan4443)
 - ✉️ **Email:** aryannlakhani21@gmail.com
 
-<p align="center"><i>If you're working on something in AI systems, safety/security, or full-stack — I'd love to connect or collaborate!</i></p>
+<p align="center"><i>If you're working on something in AI systems, safety/security, or full-stack , I'd love to connect or collaborate!</i></p>
